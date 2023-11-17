@@ -1,0 +1,12 @@
+.all{
+    background-color: teal;
+    width: 60%;
+    margin: auto;
+    border-radius: 5px;
+}
+p{
+    color: rgba(255, 251, 0, 0.804);
+    font-style: oblique;
+    text-align: center;
+    font-size: 22px;
+}
